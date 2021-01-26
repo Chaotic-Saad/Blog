@@ -1,0 +1,25 @@
+.orange.lighten-1 {
+    background-color: #353635 !important;
+}
+ 
+body {
+    /* background-image: url("back1.jpg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.col-lg-10{
+margin: 0 auto  !important;
+
+}
+#postarticle {
+    font-family: 'Michroma';
+    font-size: 40px;   
+}
+#titles {
+    font-family: 'Open Sans' ;
+    font-size: 17px;
+}
+.footer {
+    background-image:  linear-gradient(15deg, #FF1617 0%, #000000 100%);
+    font-family: 'Oxanium'!important ;
+}   

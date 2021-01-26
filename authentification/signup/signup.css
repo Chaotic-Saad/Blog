@@ -1,0 +1,110 @@
+body {
+    /* background-image: sakura_point_vsh; */
+      background-image: url("back.jpg");
+      background-size: cover;
+      background-position: center;
+  }
+  #ROW {
+    margin-top: 100px;
+
+  }
+  /* #signupform {
+      width: 600px;
+  } */
+  .form {
+    background:  #ffffff; 
+    border-radius:  9px; 
+    box-shadow:  0px 2px 6px -1px rgba(0,0,0,.12);
+    opacity: 0.8;
+    width: 700px!important;
+  }
+  .image img {
+    width: 305px;
+    height: auto;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+  .my-form {
+    padding: 2rem;
+  }
+  .text {
+    font-family: 'Cabin'!important ;
+    font-size: 18px !important;
+  }
+  .my-form h4 {
+    color: #2B0765;
+    font-family: 'Odibee Sans'!important ;
+    font-size: 50px;
+  }
+  .my-form p {
+    font-size: .875rem;
+    font-weight: 400;
+  }
+  .btn {
+    background-color: #92aad0;
+    right: 0;
+    margin-top:0px !important;
+  }
+  .btn:hover, .btn:active, .btn:focus {
+    color: #fff;
+  }
+  a {
+    bottom: 0;
+    color:white !important;
+  }
+  .space {
+    padding-bottom: 3em !important;
+  }
+  .link {
+    font-size: .875rem;
+    float: right;
+    color: #6582B0;
+  }
+  .link:hover, .link:active {
+    color: #426193;
+  }
+  @-webkit-keyframes autofill {
+    to {
+      color: #666;
+      background: transparent; } }
+  
+  @keyframes autofill {
+    to {
+      color: #666;
+      background: transparent; } }
+  
+  input:-webkit-autofill {
+    -webkit-animation-name: autofill;
+    animation-name: autofill;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both; }
+
+
+
+
+
+    body {
+        padding:0;
+        margin:0;
+        overflow:hidden;
+        height: 600px;
+    }
+    canvas {
+        padding:0;
+        margin:0;
+    }
+    div.btnbg {
+        position:fixed;
+        left:0;
+        top:0;
+    }
+
+    .container{
+        position: absolute;
+        top: 0;
+        left: 12%;
+    }
+    .float-right {
+      float: right!important;
+      margin-top: 1px;
+    }

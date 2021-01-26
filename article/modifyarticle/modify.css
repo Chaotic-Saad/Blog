@@ -1,0 +1,30 @@
+.navbar {
+    background-image:  linear-gradient(15deg, #FF1617 0%, #000000 100% );
+    font-family: 'Oxanium'!important ;
+    font-size: 20px;
+    color: white;
+    
+}
+ .modifyarticle{
+     background-color: white;
+     border-radius: 9px;
+    
+ }
+ h2 {
+    font-family: 'Michroma' ;
+}
+body {
+   /*  background-image: url("redgrad.jpg"); */
+    
+    background-image:  linear-gradient(15deg, #FF1617 0%, #000000 100% );
+    background-repeat: repeat;
+    background-size: cover;
+}   
+.col-lg-10{
+margin: 0 auto  !important;
+margin-top: 50px !important;
+}
+.footer {
+    background-image:  linear-gradient(15deg, #FF1617 0%, #000000 100%);
+    font-family: 'Oxanium'!important ;
+}

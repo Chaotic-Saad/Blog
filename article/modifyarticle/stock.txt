@@ -1,0 +1,21 @@
+<label  id="titles" for="defaultSelect">Category :</label>
+<select name="id_categorie" id="defaultSelect" class="browser-default custom-select mb-4">
+
+    <option  value="" disabled="">Choose a Category </option>
+    
+    <?php /* 
+    $tab="SELECT id, name FROM category";
+    echo $tab;
+   $result=$con->query($tab);
+   if($result->num_rows > 0):
+   while($rows=$result->fetch_assoc()):?>
+    <option value="<?php echo $rows['id']?>" > <?php echo $rows['name']; ?> </option>
+ 
+    <?php   
+endwhile;
+endif;*/
+?>
+</select>
+
+
+     

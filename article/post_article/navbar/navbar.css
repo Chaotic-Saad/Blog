@@ -1,0 +1,10 @@
+.orange.lighten-1 {
+    background-image:  linear-gradient(15deg, #FF1617 0%, #000000 100%);
+    font-family: 'Oxanium'!important ;
+    font-size: 20px;
+}
+.navbar{
+    position: fixed !important;
+    z-index: 1;
+    width: 100% !important;
+}
